@@ -1,6 +1,6 @@
 # HyperFlow: Next-Generation Computational Framework for Machine Learning & Deep Learning
 
-![Project Image](https://drive.google.com/file/d/1Z6DIKl3cBFET2x-Mo9z8mtusc-eIcKY3/view?usp=sharing)
+![Project Image](https://github.com/Shyanil/HyperFlow/blob/main/The%20HyperFlow/HyperFlow_FlowUnit.png)
 
 📄 [Read the Full Documentation](PDF_LINK_HERE)
 
